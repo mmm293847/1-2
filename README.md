@@ -55,13 +55,7 @@ USP (차별점)
 | 화면 구성 | • 구도 : 책상 위 클로즈업 / • 피사체 : 피곤한 직장인 / • 배경 : 어두운 사무실 / • 텍스트 : 없음 |
 | 내레이션 또는 화면 카피 | 없음 |
 | 사용 도구 & 목적 | • Chat GPT : 이미지 생성 / • Adobe FireFly : 영상 생성 |
-| 입력 프롬프트 (원문) | 이미지 : A tired office worker sitting at a desk in a dimly lit office, exhausted expression, cinematic lighting, realistic commercial photography, shallow depth of field / 영상 : A tired office worker sits slumped at a cluttered desk in a dimly lit office,
-slowly rubbing his eyes with both hands, head drooping with exhaustion.
-The camera starts with a wide establishing shot, then slowly pushes in
-toward her face in a smooth dolly zoom.
-Flickering fluorescent light overhead, deep shadows on her face,
-shallow depth of field, cinematic color grading with cold blue tones.
-Realistic commercial photography style, 4K, 24fps cinematic feel. |
+| 입력 프롬프트 (원문) | 이미지 : A tired office worker sitting at a desk in a dimly lit office, exhausted expression, cinematic lighting, realistic commercial photography, shallow depth of field / 영상 : A tired office worker sits slumped at a cluttered desk in a dimly lit office, slowly rubbing his eyes with both hands, head drooping with exhaustion. The camera starts with a wide establishing shot, then slowly pushes in toward her face in a smooth dolly zoom. Flickering fluorescent light overhead, deep shadows on her face, shallow depth of field, cinematic color grading with cold blue tones. Realistic commercial photography style, 4K, 24fps cinematic feel. |
 | 출력 결과 요약 | `[ ]` 결과물이 어떻게 나왔는지 한 줄로 |
 | 결과 파일명 또는 링크 | `[ ]` 예: scene01_keyvisual.png (일관된 규칙으로) |
 
