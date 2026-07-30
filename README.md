@@ -94,8 +94,7 @@ USP (차별점)
 | --- | --- |
 | 대상 씬 번호 | 2 |
 | 수정 전 프롬프트 | Premium vitamin drink bottle on a reflective surface with dramatic water splash, glowing blue lighting, ultra realistic commercial product photography, luxury advertisement, cinematic lighting, 8K |
-| 수정 전 결과 & 문제점 | 파란. 음료. 파랗다.
-뭔가 활기가 안느껴짐 |
+| 수정 전 결과 & 문제점 | 파란. 음료. 파랗다. 뭔가 활기가 안느껴짐 |
 | 수정 후 프롬프트 | Premium vitamin drink bottle on a reflective surface with dramatic water splash, glowing Yellow and orange lighting, ultra realistic commercial product photography, luxury advertisement, cinematic lighting, 8K. Logo name : GlowSip |
 | 수정 이유 (의도) | 분위기 전체가 파란색임. 모던한 사무실에서 전환되는 분위기를 전달해야하는데.. 대비되는 느낌이 안남. |
 
