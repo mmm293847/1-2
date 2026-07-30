@@ -55,9 +55,7 @@ USP (차별점)
 | 화면 구성 | • 구도 : 책상 위 클로즈업 / • 피사체 : 피곤한 직장인 / • 배경 : 어두운 사무실 / • 텍스트 : 없음 |
 | 내레이션 또는 화면 카피 | 없음 |
 | 사용 도구 & 목적 | • Chat GPT : 이미지 생성 / • Adobe FireFly : 영상 생성 |
-| 입력 프롬프트 (원문) | 이미지 : A tired office worker sitting at a desk in a dimly lit office, exhausted expression, cinematic lighting, realistic commercial photography, shallow depth of field
-
-영상 : A tired office worker sits slumped at a cluttered desk in a dimly lit office,
+| 입력 프롬프트 (원문) | 이미지 : A tired office worker sitting at a desk in a dimly lit office, exhausted expression, cinematic lighting, realistic commercial photography, shallow depth of field / 영상 : A tired office worker sits slumped at a cluttered desk in a dimly lit office,
 slowly rubbing his eyes with both hands, head drooping with exhaustion.
 The camera starts with a wide establishing shot, then slowly pushes in
 toward her face in a smooth dolly zoom.
@@ -83,16 +81,7 @@ Realistic commercial photography style, 4K, 24fps cinematic feel. |
 | 내레이션 또는 화면 카피 | 없음 |
 | 사용 도구 & 목적 | • Chat GPT : 이미지 생성
 • Kling : 영상 생성 |
-| 입력 프롬프트 (원문) | 이미지 : Premium vitamin drink bottle on a reflective surface with dramatic water splash, glowing Yellow and Orange lighting, ultra realistic commercial product photography, luxury advertisement, cinematic lighting, 8K, Logo name : GlowSip
-
-영상 : A premium vitamin drink bottle labeled "GlowSip" rises slowly from below
-into frame on a sleek reflective surface, surrounded by a dramatic slow-motion
-water splash that arcs around the bottle in golden droplets.
-Glowing yellow and orange backlight pulses gently, creating a halo effect.
-Camera begins at low angle close-up on the logo, then pulls back smoothly
-to reveal the full bottle in a hero shot.
-Ultra-realistic commercial product photography style, luxury advertisement,
-cinematic lighting, 8K resolution, 60fps slow motion on splash. |
+| 입력 프롬프트 (원문) | 이미지 : Premium vitamin drink bottle on a reflective surface with dramatic water splash, glowing Yellow and Orange lighting, ultra realistic commercial product photography, luxury advertisement, cinematic lighting, 8K, Logo name : GlowSip / 영상 : A premium vitamin drink bottle labeled "GlowSip" rises slowly from below into frame on a sleek reflective surface, surrounded by a dramatic slow-motion water splash that arcs around the bottle in golden droplets. Glowing yellow and orange backlight pulses gently, creating a halo effect. Camera begins at low angle close-up on the logo, then pulls back smoothly to reveal the full bottle in a hero shot. Ultra-realistic commercial product photography style, luxury advertisement, cinematic lighting, 8K resolution, 60fps slow motion on splash. |
 | 출력 결과 요약 | `[ ]` 결과물이 어떻게 나왔는지 한 줄로 |
 | 결과 파일명 또는 링크 | `[ ]` 예: scene01_keyvisual.png (일관된 규칙으로) |
 
@@ -112,10 +101,7 @@ cinematic lighting, 8K resolution, 60fps slow motion on splash. |
 | 내레이션 또는 화면 카피 | 없음 |
 | 사용 도구 & 목적 | • Chat GPT : 이미지 생성
 • Kling : 영상 생성 |
-| 입력 프롬프트 (원문) | 이미지 : The office transforms from dark to bright after drinking a vitamin beverage, energetic young professional smiling confidently, cinematic commercial style, warm sunlight, smooth camera movement
-
-영상 : Continuous shot: A young professional woman drinks from a GlowSip bottle(Premium amber glass vitamin drink bottle, 100ml, cylindrical shape, transparent brown glass, gold aluminum screw cap, matte black luxury label with metallic gold typography, gold droplet logo, elegant serif font, gold accent lines, minimalist premium packaging, realistic glass reflections, condensation droplets, luxury health beverage, ultra photorealistic.), and as she lowers it, the entire office environment transforms around her — dim cold lighting shifts to warm golden sunlight flooding through the windows, dark shadows dissolve, and she straightens up with a confident bright smile.
-Camera movement: slow push-in during the dark scene, then a smooth 360-degree orbit around her as the light transforms, ending on a close-up of her energetic face. Warm sunlight lens flare, cinematic color grade transitioning from cold blue to golden amber, smooth seamless transition, commercial advertisement style. |
+| 입력 프롬프트 (원문) | 이미지 : The office transforms from dark to bright after drinking a vitamin beverage, energetic young professional smiling confidently, cinematic commercial style, warm sunlight, smooth camera movement / 영상 : Continuous shot: A young professional woman drinks from a GlowSip bottle(Premium amber glass vitamin drink bottle, 100ml, cylindrical shape, transparent brown glass, gold aluminum screw cap, matte black luxury label with metallic gold typography, gold droplet logo, elegant serif font, gold accent lines, minimalist premium packaging, realistic glass reflections, condensation droplets, luxury health beverage, ultra photorealistic.), and as she lowers it, the entire office environment transforms around her — dim cold lighting shifts to warm golden sunlight flooding through the windows, dark shadows dissolve, and she straightens up with a confident bright smile. Camera movement: slow push-in during the dark scene, then a smooth 360-degree orbit around her as the light transforms, ending on a close-up of her energetic face. Warm sunlight lens flare, cinematic color grade transitioning from cold blue to golden amber, smooth seamless transition, commercial advertisement style. |
 | 출력 결과 요약 | `[ ]` 결과물이 어떻게 나왔는지 한 줄로 |
 | 결과 파일명 또는 링크 | `[ ]` 예: scene01_keyvisual.png (일관된 규칙으로) |
 
@@ -138,8 +124,7 @@ Camera movement: slow push-in during the dark scene, then a smooth 360-degree or
 | 항목 | 내용 |
 | --- | --- |
 | 대상 씬 번호 | 3 |
-| 수정 전 프롬프트 | Continuous shot: A young professional woman drinks from a GlowSip bottle and as she lowers it, the entire office environment transforms around her — dim cold lighting shifts to warm golden sunlight flooding through the windows, dark shadows dissolve, and she straightens up with a confident bright smile.
-Camera movement: slow push-in during the dark scene, then a smooth 360-degree orbit around her as the light transforms, ending on a close-up of her energetic face. Warm sunlight lens flare, cinematic color grade transitioning from cold blue to golden amber, smooth seamless transition, commercial advertisement style. |
+| 수정 전 프롬프트 | Continuous shot: A young professional woman drinks from a GlowSip bottle and as she lowers it, the entire office environment transforms around her — dim cold lighting shifts to warm golden sunlight flooding through the windows, dark shadows dissolve, and she straightens up with a confident bright smile. Camera movement: slow push-in during the dark scene, then a smooth 360-degree orbit around her as the light transforms, ending on a close-up of her energetic face. Warm sunlight lens flare, cinematic color grade transitioning from cold blue to golden amber, smooth seamless transition, commercial advertisement style. |
 | 수정 전 결과 & 문제점 | 직장인이 마시는 음료가 대상 에너지 드링크가 아님. |
 | 수정 후 프롬프트 | Premium amber glass vitamin drink bottle, 100ml, cylindrical shape, transparent brown glass, gold aluminum screw cap, matte black luxury label with metallic gold typography, gold droplet logo, elegant serif font, gold accent lines, minimalist premium packaging, realistic glass reflections, condensation droplets, luxury health beverage, ultra photorealistic. |
 | 수정 이유 (의도) | 에너지 음료 외형 묘사 추가로 제품 일관성 유지 |
