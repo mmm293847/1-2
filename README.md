@@ -87,6 +87,28 @@ USP (차별점)
 
 ---
 
+
+### 사운드 생성
+
+사용 도구 : Suno Ai
+
+```
+cinematic advertisement background music,
+emotional journey from fatigue to vitality,
+starts with slow melancholic piano and soft low strings (cold and tired mood),
+then a single bright chime signals a turning point at 3 seconds,
+builds into uplifting warm synth and acoustic guitar with gentle percussion,
+climaxes with bright energetic orchestral swell and sparkling sound effects,
+ends with a clean resolving chord and soft brand sting,
+premium luxury commercial feel, hopeful and radiant,
+no lyrics, instrumental only,
+BPM: starts at 60, gradually rises to 110,
+duration: 10 seconds
+
+```
+
+---
+
 ## 4. 프롬프트 수정 전/후 기록 ⚠️ 필수 (최소 1개 씬)
 
 
@@ -134,6 +156,3 @@ USP (차별점)
 | 해상도 | 720 |
 | 프레임레이트 | 24fps |
 
----
-
----
